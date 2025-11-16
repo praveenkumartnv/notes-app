@@ -22,22 +22,6 @@ npm run dev
 
 Open http://localhost:5173
 
-## Build & Deploy
-
-### Vercel
-- Push this repo to GitHub.
-- Create a new Vercel project and import the repo.
-- Build command: `npm run build`
-- Output directory: `dist`
-
-### Netlify
-- Connect repo in Netlify.
-- Build command: `npm run build`
-- Publish directory: `dist`
-
-### GitHub Pages (recommended using gh-pages for SPA)
-- Alternatively use GitHub Actions or the `gh-pages` package to publish the `dist` folder.
-
 ## Project structure
 ```
 src/
